@@ -1,0 +1,11 @@
+{
+  "org": "bpython",
+  "repo": "curtsies",
+  "versions": [
+    {
+      "commit": "3c303d0fadaf73c6909b2da08816c275cff33172",
+      "tag": "",
+      "parsed_at": "2026-10-18T04:14:54.634185+00:00"
+    }
+  ]
+}
