@@ -1,0 +1,7 @@
+[2026-10-18T04:13:35Z] === AST ITERATION 1 START | repo=bpython/curtsies sha=3c303d0f ===
+[2026-10-18T04:13:35Z] [iter=1] PHASE START: ast repo=bpython/curtsies sha=3c303d0f
+[2026-10-18T04:13:35Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T04:14:07Z] [iter=1] AST chunks built count=1 triples=287210
+[2026-10-18T04:14:07Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/3c303d0fadaf73c6909b2da08816c275cff33172/.complete
+[2026-10-18T04:14:07Z] [iter=1] PHASE END: ast elapsed_s=31 elapsed_min=0.5
+[2026-10-18T04:14:07Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
